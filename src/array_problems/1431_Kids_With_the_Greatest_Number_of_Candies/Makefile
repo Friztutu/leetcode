@@ -15,4 +15,6 @@ check_memory: $(FILES)
 	make 
 	valgrind --tool=memcheck --leak-check=yes ./solution
 
+code_style:
+	clang-format -i *.c
 
