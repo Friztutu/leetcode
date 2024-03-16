@@ -17,4 +17,3 @@ check_memory: $(FILES)
 
 code_style:
 	clang-format -i *.c
-
