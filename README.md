@@ -9,6 +9,7 @@ Here I am simply posting solutions to problems from the LeetCode.
 |----| ------- | -------- | ---------- | ---- | ----- |
 | 151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|[Python](./src/151_Reverse_Words_in_a_String/151_Reverse_Words_in_a_String.py)|Medium|O(N)|O(N)|
 | 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)|[C](./src/238_Product_of_Array_Except_Self/238_Product_of_Array_Except_Self.c)|Medium|O(N)|O(1)|
+| 283|[Product of Array Except Self](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)|[C](./src/283_Move_Zeroes/283_Move_Zeroes.c)|Easy|O(N)|O(1)|
 | 334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)|[C](./src/334_Increasing_Triplet_Subsequence/334_Increasing_Triplet_Subsequence.c)|Medium|O(N)|O(1)|
 | 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|[C](./src/345_Reverse_Vowels_of_a_String/345_Reverse_Vowels_of_a_String.c)|Easy|O(N)|O(1)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)|[C](./src/605_Can_Place_Flowers/605_Can_Place_Flowers.c)|Easy|O(N)|O(1)|
